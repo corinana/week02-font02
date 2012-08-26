@@ -1,3 +1,10 @@
+/**
+    A letter F using rectangle matrixes and white strokes to create 
+    a dotted illusion
+    tzuhsuan.yang 24/08/2012
+    a0071302@nus.edu.sg
+ */
+ 
 size(400, 400);
 smooth();
 fill(0);
